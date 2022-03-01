@@ -17,7 +17,7 @@ a {
 
 .footer-59391 {
   border-top: 1px solid #efefef;
-  background-color: #fff;
+  background-color: #000;
   font-family: "Poppins", sans-serif;
   padding: 4rem 0; }
   .footer-59391 .site-logo a {
@@ -27,7 +27,7 @@ a {
   .footer-59391 .nav-links li {
     display: inline-block; }
     .footer-59391 .nav-links li a {
-      color: #777;
+      color: #fff;
       padding: 10px; }
       .footer-59391 .nav-links li a:hover {
         color: #3e64ff; }
